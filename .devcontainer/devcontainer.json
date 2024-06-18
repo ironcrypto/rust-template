@@ -9,7 +9,10 @@
 			"extensions": [
 				"rust-lang.rust-analyzer",
 				"GitHub.copilot",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"GitHub.copilot-chat",
+				"DavidAnson.vscode-markdownlint",
+				"franneck94.vscode-rust-config"
 			],
 			"settings": {
 				"rust-analyzer.cargo.autoreload": true
