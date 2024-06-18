@@ -10,7 +10,10 @@
 				"rust-lang.rust-analyzer",
 				"GitHub.copilot",
 				"github.vscode-github-actions"
-			]
+			],
+			"settings": {
+				"rust-analyzer.cargo.autoreload": true
+			}
 		}
 	}
 
